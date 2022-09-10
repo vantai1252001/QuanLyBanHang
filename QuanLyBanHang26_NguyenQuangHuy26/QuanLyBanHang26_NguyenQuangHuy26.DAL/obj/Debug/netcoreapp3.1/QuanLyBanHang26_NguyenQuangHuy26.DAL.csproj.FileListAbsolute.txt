@@ -1,0 +1,16 @@
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\bin\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.DAL.deps.json
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\bin\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.DAL.runtimeconfig.json
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\bin\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.DAL.runtimeconfig.dev.json
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\bin\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.DAL.dll
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\bin\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.DAL.pdb
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.DAL.csproj.AssemblyReference.cache
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.DAL.AssemblyInfoInputs.cache
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.DAL.AssemblyInfo.cs
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.DAL.csproj.CoreCompileInputs.cache
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.DAL.dll
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.DAL.pdb
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.DAL.genruntimeconfig.cache
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\bin\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.dll
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\bin\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.pdb
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.DAL\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.DAL.csproj.CopyComplete

@@ -1,0 +1,13 @@
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.Common\bin\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.deps.json
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.Common\bin\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.dll
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.Common\bin\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.pdb
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.Common\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.csproj.AssemblyReference.cache
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.Common\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.Common\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.AssemblyInfoInputs.cache
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.Common\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.AssemblyInfo.cs
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.Common\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.csproj.CoreCompileInputs.cache
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.Common\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.dll
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.Common\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.pdb
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.Common\bin\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.runtimeconfig.json
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.Common\bin\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.runtimeconfig.dev.json
+C:\Users\VANTAI\source\repos\QuanLyBanHang26_NguyenQuangHuy26\QuanLyBanHang26_NguyenQuangHuy26.Common\obj\Debug\netcoreapp3.1\QuanLyBanHang26_NguyenQuangHuy26.Common.genruntimeconfig.cache

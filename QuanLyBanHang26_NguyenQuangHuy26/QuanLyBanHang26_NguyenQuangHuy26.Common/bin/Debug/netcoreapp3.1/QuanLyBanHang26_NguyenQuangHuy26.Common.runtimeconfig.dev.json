@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\VANTAI\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\VANTAI\\.nuget\\packages"
+    ]
+  }
+}
